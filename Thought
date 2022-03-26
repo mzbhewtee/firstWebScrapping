@@ -1,0 +1,14 @@
+My thought process:
+1. I am required to get the top 10 most popular books so i decided
+to use the review as my object of popularity. The reason being that if 1 person views a book 
+and gives it 5stars and 200,000 people read/view a book and the average rating is 3stars. 
+So, i concluded that the popularity of a book cannot be determine by the ratings.
+
+2.After i decided to go with the reviews then i concluded that
+after the review is done then the most expensive books out of the popular books can now be chosen.
+
+3. After these, The price will be concatenated with each book on a newline.
+
+4. I also thought of creating a csv file out of my output but I didn't get satisfied with the result as it 
+prints out list in each column, so, i removed the code.
+

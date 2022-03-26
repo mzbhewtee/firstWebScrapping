@@ -1,0 +1,11 @@
+Library used:
+1: BeautifulSoup: This library is used to srape information from the amazon webpage. It helped me to get the html file of the page so i was able to get the informations i need for the task.
+2: Requests: I used this in order to send requset and get permission from the webpage
+
+3: sys: I used this module so as to exit the code and go back to the Python console when a requirement is not met.
+
+4: time: I used this to set the runtime of the program. This will cause the program to run/execute faster.
+
+5: csv: I used this library to export with result into a csv/exel file so i can have file incase
+i want to send the result of my findings to a user that needs it but can't programz. 
+I used this for learning purpose to see whether it will work as i intended or not.
